@@ -2,7 +2,7 @@
 
 In this task, I developed a **Stopwatch Web Application** using HTML, CSS, and JavaScript. The goal was to create a responsive and user-friendly stopwatch interface that allows users to track time intervals with the ability to start, pause, and reset the timer.
 
-## Tools & Technologies Used:
+## TOOLS & TECHNOLOGIES USED:
 
 - HTML: To structure the web page elements (heading, timer display, and buttons).
 
@@ -10,7 +10,7 @@ In this task, I developed a **Stopwatch Web Application** using HTML, CSS, and J
 
 - JavaScript: To implement core stopwatch functionalities such as time tracking, pause, and reset.
 
-## Features:
+## FEATURES:
 
 - Clean and simple stopwatch UI.
 
@@ -22,7 +22,7 @@ In this task, I developed a **Stopwatch Web Application** using HTML, CSS, and J
 
 - Real-time time tracking and smooth transitions.
 
-## What I Learned:
+## WHAT I LEARNED:
 
 - How to dynamically update time using setInterval() in JavaScript.
 
@@ -31,3 +31,6 @@ In this task, I developed a **Stopwatch Web Application** using HTML, CSS, and J
 - Managing and clearing intervals in JavaScript.
 
 - Styling layout using CSS Flexbox and classes.
+
+## OUTPUT:
+
