@@ -34,3 +34,4 @@ In this task, I developed a **Stopwatch Web Application** using HTML, CSS, and J
 
 ## OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/f26ef652-b051-4093-ade7-db063e9a8a39)
